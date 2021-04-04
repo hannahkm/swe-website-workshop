@@ -1,0 +1,22 @@
+#html {
+  background: white;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #f7f7f7;
+  color: #5b5b5b;
+}
+
+.centered {
+  text-align: center;
+}
+
+#intro {
+  color: #5e478a;
+}
+
+#lorem {
+  color: #05954f;
+}
